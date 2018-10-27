@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Song.master.cs" Inherits="SongPortal.Song" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html5>
+<head runat="server">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="Boot/bootstrap.min.css" />
+<script type="text/javascript" src="Boot/bootstrap.min.js"></script>
+<script type="text/javascript" src="Boot/jquery.min.js"></script>
+<style>
+
+ </style>
+ <link rel="Stylesheet" type="text/css" href="CSS/uploadify.css" />
+     <script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="scripts/jquery.uploadify.js"></script>
+</head>
+<Title>track4u.com</Title>
+<body>
+    <form id="form1" role="form" runat="server">
+      <div class="container">
+       <div class="row" style="background-color: #006666; color: #FFFFFF;"> 
+          
+          <div class="col-xs-4"><h2 class="text-primary"><a href="Default.aspx"><kbd>track4u.com</kbd></a></h2></div>
+          <div class="col-xs-4"></div>
+          <div class="col-xs-4"><h5><kbd>mailus:narendratarget@gmail.com</kbd></h5><h4><a href="wcpanel.aspx"><kbd>Admin Panel</kbd></a></h4></div>
+          
+       </div>
+       <div class="row"></div>
+       <div class="jumbotron">
+       <asp:ScriptManager ID="ScriptManager1" runat="server">
+       </asp:ScriptManager>
+         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+         </asp:ContentPlaceHolder>
+       </div>
+    </div>
+    </form>
+</body>
+</html5>

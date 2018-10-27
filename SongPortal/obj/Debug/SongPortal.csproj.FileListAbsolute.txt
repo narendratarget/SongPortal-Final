@@ -1,0 +1,19 @@
+E:\SongPortal\SongPortal\bin\SongPortal.dll
+E:\SongPortal\SongPortal\bin\SongPortal.pdb
+E:\SongPortal\SongPortal\obj\Debug\SongPortal.dll
+E:\SongPortal\SongPortal\obj\Debug\SongPortal.pdb
+E:\SongPortal\SongPortal\obj\Debug\SongPortal.csprojResolveAssemblyReference.cache
+E:\Projects\SongPortal Final\SongPortal\bin\SongPortal.dll
+E:\Projects\SongPortal Final\SongPortal\bin\SongPortal.pdb
+E:\Projects\SongPortal Final\SongPortal\obj\Debug\SongPortal.csprojResolveAssemblyReference.cache
+E:\Projects\SongPortal Final\SongPortal\obj\Debug\SongPortal.dll
+E:\Projects\SongPortal Final\SongPortal\obj\Debug\SongPortal.pdb
+E:\Stuff\Projects\SongPortal Final\SongPortal\bin\SongPortal.dll
+E:\Stuff\Projects\SongPortal Final\SongPortal\bin\SongPortal.pdb
+E:\Stuff\Projects\SongPortal Final\SongPortal\obj\Debug\SongPortal.dll
+E:\Stuff\Projects\SongPortal Final\SongPortal\obj\Debug\SongPortal.pdb
+E:\Stuff\git\SongPortal Final\SongPortal\bin\SongPortal.dll
+E:\Stuff\git\SongPortal Final\SongPortal\bin\SongPortal.pdb
+E:\Stuff\git\SongPortal Final\SongPortal\obj\Debug\SongPortal.csprojResolveAssemblyReference.cache
+E:\Stuff\git\SongPortal Final\SongPortal\obj\Debug\SongPortal.dll
+E:\Stuff\git\SongPortal Final\SongPortal\obj\Debug\SongPortal.pdb
